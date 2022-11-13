@@ -9,115 +9,75 @@
 [![Fuck Russia](https://img.shields.io/badge/fuck-russia-e4181c.svg?labelColor=000000)](https://twitter.com/tyrrrz/status/1495972128977571848)
 
 ## About
+
 Фрагментарна реалізація систем управління табличними базами даних
 
 ## І. Загальні вимоги
 
-**Основні вимоги щодо структури бази:**  
+**Основні вимоги щодо структури бази:**
 
-- кількість таблиць принципово не обмежена (реляції між таблицями не враховувати);  
-- кількість полів та кількість записів у кожній таблиці також принципово не обмежені.  
+- кількість таблиць принципово не обмежена (реляції між таблицями не враховувати);
+- кількість полів та кількість записів у кожній таблиці також принципово не обмежені.
 
-**У кожній роботі треба забезпечити підтримку (для полів у таблицях) наступних (загальних для всіх варіантів!) типів:**  
+**У кожній роботі треба забезпечити підтримку (для полів у таблицях) наступних (загальних для всіх варіантів!) типів:**
 
-- integer;  
-- real;  
-- char;  
-- string.  
+- integer;
+- real;
+- char;
+- string.
 
-**Також у кожній роботі треба реалізувати функціональну підтримку для:**  
+**Також у кожній роботі треба реалізувати функціональну підтримку для:**
 
-- створення бази;  
-- створення (із валідацією даних) та знищення таблиці з бази;  
-- перегляду та редагування рядків таблиці;  
-- збереження табличної бази на диску та, навпаки, зчитування її з диску.  
+- створення бази;
+- створення (із валідацією даних) та знищення таблиці з бази;
+- перегляду та редагування рядків таблиці;
+- збереження табличної бази на диску та, навпаки, зчитування її з диску.
 
-## ІІ. Варіанти додаткових типів  
+## ІІ. Варіанти додаткових типів
 
-**Потрібно забезпечити підтримку (для можливого використання у таблицях) двох додаткових типів у відповідності з одним із наступних варіантів:**   
+**Потрібно забезпечити підтримку (для можливого використання у таблицях) двох додаткових типів у відповідності з одним із наступних варіантів:**
 
-2) color (RGB код кольору); colorInvl; 
+2. color (RGB код кольору); colorInvl;
 
 Примiтка. Типи із суфіксом Invl (наприклад, colorInvl, integerInvl тощо) є "iнтервальними" типами.
 
-## ІІІ. Варіанти додаткових операцiй над таблицями  
+## ІІІ. Варіанти додаткових операцiй над таблицями
 
 **Потрібно реалізувати операцiї над таблицями у відповідності з варіантом:**
 
-8) перейменування та/або перестановка колонок таблиці (з відповідною зміною схеми таблиці).
+8. перейменування та/або перестановка колонок таблиці (з відповідною зміною схеми таблиці).
 
-## Stages 
+## Stages
 
- - [Stage 0](https://github.com/PoixoN/essential-db/blob/main/docs/Step0.md)
- - [Stage 1](https://github.com/PoixoN/essential-db/blob/main/docs/Step1.md)
- - [Stages 2-3](https://github.com/PoixoN/essential-db/blob/main/docs/Step2-3.md)
- - [Stage 10](https://github.com/PoixoN/essential-db/blob/main/docs/Step10.md)
- - [Stage 11](https://github.com/PoixoN/essential-db/blob/main/docs/Step11.md)
- - [Stage 12](https://github.com/PoixoN/essential-db/blob/main/docs/Step12.md)
- - [Stage 22](https://github.com/PoixoN/essential-db/blob/main/docs/Step22.md)
- - [Stage 23](https://github.com/PoixoN/essential-db/blob/main/docs/Step23.md)
- - [Stage 24](https://github.com/PoixoN/essential-db/blob/main/docs/Step24.md)
- - [Stage 25](https://github.com/PoixoN/essential-db/blob/main/docs/Step25.md)
+- [Stage 0](https://github.com/PoixoN/essential-db/blob/main/docs/Step0.md)
+- [Stage 1](https://github.com/PoixoN/essential-db/blob/main/docs/Step1.md)
+- [Stages 2-3](https://github.com/PoixoN/essential-db/blob/main/docs/Step2-3.md)
+- [Stage 10](https://github.com/PoixoN/essential-db/blob/main/docs/Step10.md)
+- [Stage 11](https://github.com/PoixoN/essential-db/blob/main/docs/Step11.md)
+- [Stage 12](https://github.com/PoixoN/essential-db/blob/main/docs/Step12.md)
+- [Stage 22](https://github.com/PoixoN/essential-db/blob/main/docs/Step22.md)
+- [Stage 23](https://github.com/PoixoN/essential-db/blob/main/docs/Step23.md)
+- [Stage 24](https://github.com/PoixoN/essential-db/blob/main/docs/Step24.md)
+- [Stage 25](https://github.com/PoixoN/essential-db/blob/main/docs/Step25.md)
 
- ## License
+## License
 
 Project is distributed under the MIT license.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **Burning-Lab Registry:**
+
 ```json
-    {
-      "name": "Burning-Lab Registry",
-      "url": "https://packages.burning-lab.com",
-      "scopes": [
-        "com.burning-lab"
-      ]
-    }
+{
+  "name": "Burning-Lab Registry",
+  "url": "https://packages.burning-lab.com",
+  "scopes": ["com.burning-lab"]
+}
 ```
-
-## Screenshots
-
-<table>
-    <tr>
-            <img src="https://i.ibb.co/3shJFsJ/Screenshot-1.png" alt="Screenshot">
-    </tr>
-    <tr>
-            <img src="https://i.ibb.co/DwpNfBk/Screenshot-2.png" alt="Screenshot">
-    </tr>
-</table>
 
 ## Documentation
 
 ### Settings:
+
 - **-** **`Swipe Detection Mode (DetectionMode)`** - Swipes detection mode.
 
 - **-** **`Min Swipe Distance (float)`** - Minimum swipe length.
@@ -131,6 +91,7 @@ Project is distributed under the MIT license.
 - `DEBUG_SWIPE_DETECTOR` - Output swipe detector logs only.
 
 ### Examples:
+
 - **-** **`BurningLab/SwipeDetector/Examples/Scenes/SwipeInputDemoScene`**
 
 ## Distribute
