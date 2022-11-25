@@ -49,16 +49,18 @@
 
 ## Stages
 
-- [Stage 0](https://github.com/PoixoN/essential-db/blob/main/docs/Step0.md)
-- [Stage 1](https://github.com/PoixoN/essential-db/blob/main/docs/Step1.md)
-- [Stages 2-3](https://github.com/PoixoN/essential-db/blob/main/docs/Step2-3.md)
-- [Stage 10](https://github.com/PoixoN/essential-db/blob/main/docs/Step10.md)
-- [Stage 11](https://github.com/PoixoN/essential-db/blob/main/docs/Step11.md)
-- [Stage 12](https://github.com/PoixoN/essential-db/blob/main/docs/Step12.md)
-- [Stage 22](https://github.com/PoixoN/essential-db/blob/main/docs/Step22.md)
-- [Stage 23](https://github.com/PoixoN/essential-db/blob/main/docs/Step23.md)
-- [Stage 24](https://github.com/PoixoN/essential-db/blob/main/docs/Step24.md)
-- [Stage 25](https://github.com/PoixoN/essential-db/blob/main/docs/Step25.md)
+- [Stage 0 - Попередній етап](https://github.com/PoixoN/essential-db/blob/main/docs/Step0.md)
+- [Stage 1 - Використання UML](https://github.com/PoixoN/essential-db/blob/main/docs/Step1.md)
+- [Stage 2 - Розробка локальної + CLI](https://github.com/PoixoN/essential-db/blob/main/docs/Step2.md)
+- [Stage 3 - Unit тести + діаграма класів](https://github.com/PoixoN/essential-db/blob/main/docs/Step3.md)
+- [Stage 10 - REST web-сервіси](https://github.com/PoixoN/essential-db/blob/main/docs/Step10.md)
+- [Stage 11 - HATEOAS](https://github.com/PoixoN/essential-db/blob/main/docs/Step11.md)
+- [Stage 12 - Розробка OpenAPI Specificatio](https://github.com/PoixoN/essential-db/blob/main/docs/Step12.md)
+- [Stage 13 - Реалізація серверного проєкту (кодогенерація)](https://github.com/PoixoN/essential-db/blob/main/docs/Step13.md)
+- [Stage 14 - Реалізація клієнтського проєкту (кодогенерація)](https://github.com/PoixoN/essential-db/blob/main/docs/Step14.md)
+- [Stage 22 - Azure](https://github.com/PoixoN/essential-db/blob/main/docs/Step22.md)
+- [Stage 23 - Мікросервісна архітектура](https://github.com/PoixoN/essential-db/blob/main/docs/Step23.md)
+- [Stage 24 - Реляційна СУБД](https://github.com/PoixoN/essential-db/blob/main/docs/Step24.md)
 
 ## License
 
