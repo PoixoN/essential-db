@@ -1,13 +1,15 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.EntityFrameworkCore;
 using RestWebApi.DAL;
+using RestWebApi.DAL.LinkGeneratorEntities;
 
 namespace RestWebApi.BLL.Abstractions
 {
     public interface IEntityManager<Entity> where Entity : BaseEntity, new()
     {
-        IList<Entity> GetAll();
+        LinkCollectionWrapper<Entity> GetAll(HttpContext httpContext);
 
-        Task<Entity?> GetByIdAsync(Guid Id);
+        Task<Entity?> GetByIdAsync(HttpContext httpContext, Guid Id);
 
         Task<Entity> CreateAsync(Entity model);
 

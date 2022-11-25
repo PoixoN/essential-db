@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using RestWebApi.BLL.Abstractions;
 using RestWebApi.DAL;
+using RestWebApi.DAL.LinkGeneratorEntities;
 
 namespace RestWebApi.Controllers
 {
@@ -16,10 +17,10 @@ namespace RestWebApi.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<Database> GetAll() => _entityManager.GetAll();
+        public LinkCollectionWrapper<Database> GetAll() => _entityManager.GetAll(HttpContext);
 
         [HttpGet("{id}")]
-        public async Task<Database?> GetById(Guid id) => await _entityManager.GetByIdAsync(id);
+        public async Task<Database?> GetById(Guid id) => await _entityManager.GetByIdAsync(HttpContext, id);
 
         [HttpPost]
         public async Task<Database> Create(Database model) => await _entityManager.CreateAsync(model);
