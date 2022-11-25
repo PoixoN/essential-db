@@ -82,6 +82,10 @@
 
 [Створення бази даних](https://github.com/PoixoN/essential-db/blob/main/img/step_1/3.sequence-diagram-post-db.png)
 
+### Видалення бази даних
+
+[Видалення бази даних](https://github.com/PoixoN/essential-db/blob/main/img/step_1/12.sequence-diagram-delete-db.png)
+
 ### Додавання рядка до бази даних
 
 [Додавання рядка до бази даних](https://github.com/PoixoN/essential-db/blob/main/img/step_1/4.sequence-diagram-put-row.png)
