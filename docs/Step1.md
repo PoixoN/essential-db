@@ -2,7 +2,7 @@
 
 ## Діаграми прецедентів
 
-[Діаграма прецедентів](https://github.com/PoixoN/essential-db/blob/main/img/10.deployment-diagram.png)
+[Діаграма прецедентів](https://github.com/PoixoN/essential-db/blob/main/img/step_1/11.use-case-diagram.png)
 
 ### Потоки подій до 3 прецедентів
 
@@ -70,44 +70,44 @@
 
 ### Діаграма класів
 
-[Діаграма класів](https://github.com/PoixoN/essential-db/blob/main/img/1.class-diagram.png)
+[Діаграма класів](https://github.com/PoixoN/essential-db/blob/main/img/step_1/1.class-diagram.png)
 
 ### VOPC-діаграма класів
 
-[VOPC-діаграма класів](https://github.com/PoixoN/essential-db/blob/main/img/2.vopc-class-diagram.png)
+[VOPC-діаграма класів](https://github.com/PoixoN/essential-db/blob/main/img/step_1/2.vopc-class-diagram.png)
 
 ## Діаграми взаємодії
 
 ### Створення бази даних
 
-[Створення бази даних](https://github.com/PoixoN/essential-db/blob/main/img/3.sequence-diagram-post-db.png)
+[Створення бази даних](https://github.com/PoixoN/essential-db/blob/main/img/step_1/3.sequence-diagram-post-db.png)
 
 ### Додавання рядка до бази даних
 
-[Додавання рядка до бази даних](https://github.com/PoixoN/essential-db/blob/main/img/4.sequence-diagram-put-row.png)
+[Додавання рядка до бази даних](https://github.com/PoixoN/essential-db/blob/main/img/step_1/4.sequence-diagram-put-row.png)
 
 ### Перегляд рядків
 
-[Перегляд рядків](https://github.com/PoixoN/essential-db/blob/main/img/5.sequence-diagram-get-rows.png)
+[Перегляд рядків](https://github.com/PoixoN/essential-db/blob/main/img/step_1/5.sequence-diagram-get-rows.png)
 
 ### Завантаження бази даних
 
-[Завантаження бази даних](https://github.com/PoixoN/essential-db/blob/main/img/6.sequence-diagram-restore-db.png)
+[Завантаження бази даних](https://github.com/PoixoN/essential-db/blob/main/img/step_1/6.sequence-diagram-restore-db.png)
 
 ### Збереження бази даних
 
-[Збереження бази даних](https://github.com/PoixoN/essential-db/blob/main/img/7.sequence-diagram-save-db.png)
+[Збереження бази даних](https://github.com/PoixoN/essential-db/blob/main/img/step_1/7.sequence-diagram-save-db.png)
 
 ## Діаграми компонентів
 
 ### Діаграма компонентів
 
-[Діаграма компонентів](https://github.com/PoixoN/essential-db/blob/main/img/8.component-diagram.png)
+[Діаграма компонентів](https://github.com/PoixoN/essential-db/blob/main/img/step_1/8.component-diagram.png)
 
 ### Діаграма компонентів (Розподілена версія)
 
-[Діаграма компонентів (Розподілена версія)](https://github.com/PoixoN/essential-db/blob/main/img/9.component-diagram-distributed-version.png)
+[Діаграма компонентів (Розподілена версія)](https://github.com/PoixoN/essential-db/blob/main/img/step_1/9.component-diagram-distributed-version.png)
 
 ## Діаграма розгортання
 
-[ Діаграма розгортання](https://github.com/PoixoN/essential-db/blob/main/img/10.deployment-diagram.png)
+[ Діаграма розгортання](https://github.com/PoixoN/essential-db/blob/main/img/step_1/10.deployment-diagram.png)
