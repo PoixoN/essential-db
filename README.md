@@ -47,17 +47,17 @@
 
 8. перейменування та/або перестановка колонок таблиці (з відповідною зміною схеми таблиці).
 
-## Stages
+## Steps
 
-- [Stage 0 - Попередній етап](https://github.com/PoixoN/essential-db/blob/main/docs/Step0.md)
-- [Stage 1 - Використання UML](https://github.com/PoixoN/essential-db/blob/main/docs/Step1.md)
-- [Stage 2 - Розробка локальної + CLI](https://github.com/PoixoN/essential-db/blob/main/docs/Step2.md)
-- [Stage 3 - Unit тести + діаграма класів](https://github.com/PoixoN/essential-db/blob/main/docs/Step3.md)
-- [Stage 10 - REST web-сервіси](https://github.com/PoixoN/essential-db/blob/main/docs/Step10.md)
-- [Stage 11 - HATEOAS](https://github.com/PoixoN/essential-db/blob/main/docs/Step11.md)
-- [Stage 12 - Розробка OpenAPI Specificatio](https://github.com/PoixoN/essential-db/blob/main/docs/Step12.md)
-- [Stage 13 - Реалізація серверного проєкту (кодогенерація)](https://github.com/PoixoN/essential-db/blob/main/docs/Step13.md)
-- [Stage 14 - Реалізація клієнтського проєкту (кодогенерація)](https://github.com/PoixoN/essential-db/blob/main/docs/Step14.md)
-- [Stage 22 - Azure](https://github.com/PoixoN/essential-db/blob/main/docs/Step22.md)
-- [Stage 23 - Мікросервісна архітектура](https://github.com/PoixoN/essential-db/blob/main/docs/Step23.md)
-- [Stage 24 - Реляційна СУБД](https://github.com/PoixoN/essential-db/blob/main/docs/Step24.md)
+- [Step 0 - Попередній етап](https://github.com/PoixoN/essential-db/blob/main/docs/Step0.md)
+- [Step 1 - Використання UML](https://github.com/PoixoN/essential-db/blob/main/docs/Step1.md)
+- [Step 2 - Розробка локальної + CLI](https://github.com/PoixoN/essential-db/blob/main/docs/Step2.md)
+- [Step 3 - Unit тести + діаграма класів](https://github.com/PoixoN/essential-db/blob/main/docs/Step3.md)
+- [Step 10 - REST web-сервіси](https://github.com/PoixoN/essential-db/blob/main/docs/Step10.md)
+- [Step 11 - HATEOAS](https://github.com/PoixoN/essential-db/blob/main/docs/Step11.md)
+- [Step 12 - Розробка OpenAPI Specificatio](https://github.com/PoixoN/essential-db/blob/main/docs/Step12.md)
+- [Step 13 - Реалізація серверного проєкту (кодогенерація)](https://github.com/PoixoN/essential-db/blob/main/docs/Step13.md)
+- [Step 14 - Реалізація клієнтського проєкту (кодогенерація)](https://github.com/PoixoN/essential-db/blob/main/docs/Step14.md)
+- [Step 22 - Azure](https://github.com/PoixoN/essential-db/blob/main/docs/Step22.md)
+- [Step 23 - Мікросервісна архітектура](https://github.com/PoixoN/essential-db/blob/main/docs/Step23.md)
+- [Step 24 - Реляційна СУБД](https://github.com/PoixoN/essential-db/blob/main/docs/Step24.md)
