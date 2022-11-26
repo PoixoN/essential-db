@@ -9,4 +9,4 @@
 
 ## Проведення unit-тестування
 
-![Діаграма прецедентів](https://github.com/PoixoN/essential-db/blob/main/img/step_3/unit-tests.png)
+![Unit Тестування](https://github.com/PoixoN/essential-db/blob/main/img/step_3/unit-tests.jpg)

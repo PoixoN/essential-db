@@ -11,7 +11,7 @@
 
 ![RestWebApi swagger](https://github.com/PoixoN/essential-db/blob/main/img/step_18/rest-web-api-swagger.jpg)
 ![RestWebApi swagger get all Databases](https://github.com/PoixoN/essential-db/blob/main/img/step_18/rest-web-api-swagger-get-all-databases.jpg)
-![RestWebApi swagger create Databases](https://github.com/PoixoN/essential-db/blob/main/img/step_18/rest-web-api-swagger-create-databases.jpg)
+![RestWebApi swagger create Databases](https://github.com/PoixoN/essential-db/blob/main/img/step_18/rest-web-api-swagger-create-database.jpg)
 
 ## Діаграми класів
 
