@@ -24,9 +24,6 @@ public abstract class State
     public abstract bool ProcessCommand(Command command);
 }
 
-
-
-
 class EssentialDbCommandState : State
 {
     public override bool ProcessCommand(Command command) =>
